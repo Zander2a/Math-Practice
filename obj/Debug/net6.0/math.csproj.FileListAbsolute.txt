@@ -1,0 +1,15 @@
+C:\Users\alemo\Programación y logica 1\Math 03\math\bin\Debug\net6.0\math.exe
+C:\Users\alemo\Programación y logica 1\Math 03\math\bin\Debug\net6.0\math.deps.json
+C:\Users\alemo\Programación y logica 1\Math 03\math\bin\Debug\net6.0\math.runtimeconfig.json
+C:\Users\alemo\Programación y logica 1\Math 03\math\bin\Debug\net6.0\math.dll
+C:\Users\alemo\Programación y logica 1\Math 03\math\bin\Debug\net6.0\math.pdb
+C:\Users\alemo\Programación y logica 1\Math 03\math\obj\Debug\net6.0\math.csproj.AssemblyReference.cache
+C:\Users\alemo\Programación y logica 1\Math 03\math\obj\Debug\net6.0\math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alemo\Programación y logica 1\Math 03\math\obj\Debug\net6.0\math.AssemblyInfoInputs.cache
+C:\Users\alemo\Programación y logica 1\Math 03\math\obj\Debug\net6.0\math.AssemblyInfo.cs
+C:\Users\alemo\Programación y logica 1\Math 03\math\obj\Debug\net6.0\math.csproj.CoreCompileInputs.cache
+C:\Users\alemo\Programación y logica 1\Math 03\math\obj\Debug\net6.0\math.dll
+C:\Users\alemo\Programación y logica 1\Math 03\math\obj\Debug\net6.0\refint\math.dll
+C:\Users\alemo\Programación y logica 1\Math 03\math\obj\Debug\net6.0\math.pdb
+C:\Users\alemo\Programación y logica 1\Math 03\math\obj\Debug\net6.0\math.genruntimeconfig.cache
+C:\Users\alemo\Programación y logica 1\Math 03\math\obj\Debug\net6.0\ref\math.dll
